@@ -16,8 +16,8 @@ class SiteNavbar extends HTMLElement {
     <nav class="navbar navbar-expand-lg navbar-light bg-info">
       <div class="container-fluid">
         <a class="navbar-brand" href="/main.html">
-          <img src="/images/image.jpg" height="36">
-          ElmoHikes
+          <img src="/images/hike_logo.jpg" height="36">
+          Popal Hikes
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
