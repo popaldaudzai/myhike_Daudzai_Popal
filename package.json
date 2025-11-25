@@ -11,7 +11,8 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.8",
     "firebase": "^12.4.0",
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "python": "^0.0.4"
   },
   "devDependencies": {
     "vite": "^7.1.9"
